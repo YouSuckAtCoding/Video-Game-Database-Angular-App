@@ -1,4 +1,6 @@
 # NgVideoGameDb
+Project made while following an Angular tutorial on Youtube: https://www.youtube.com/watch?v=LiOzTQAz13Q
+The project is a video-game informative website that uses Typescript and Angular, while consuming an API from https://rawg.io/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
